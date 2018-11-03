@@ -557,6 +557,8 @@ metadata. You can see and example of providing callbacks below:
 
 The reload hooks will be called before and after every hot code reload.
 
+### Re-frame specific
+
 ## Quick way to understand the command line options
 
 If you supply a `-pc` or `--pprint-config` flag to `figwheel.main`, it
